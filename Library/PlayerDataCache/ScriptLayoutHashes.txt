@@ -1,6 +1,6 @@
-WindowsStandalone
+OSXStandalone
 PlayerPath?
-C:/Users/saurabh/Documents/Unity/game_of_life/Windows Build/Windows Build.exe
+/Users/saurabhsarkar/Documents/Unity/Game of life/OSX Build/Game of Life.app
 SceneListBegin?
 Assets/main_Scene.unity
 SceneListEnd?
