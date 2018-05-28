@@ -13,3 +13,13 @@ Where is the shiny button:
 As the master of the game you can influence the robots to be more receptive to change by using the slider on the bottom. Further you move the slider right more adventurous the robots become and they tend to explore for greener grounds. 
 
 If you keep the slider towards left, you would the see how the robots keep following the old trails even when the cheese is all gone on the other hand keep to too much to the right and robots break into anarchy and dont like to follow trails.
+
+
+For best viewing experience download and run the files here:
+Windows: 
+OSX
+
+Low resolution run in brower link : https://sarkarsaurabh.github.io/
+
+Please free to download the repo and contribute.
+https://github.com/sarkarsaurabh/game_of_life
