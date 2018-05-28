@@ -16,7 +16,9 @@ If you keep the slider towards left, you would the see how the robots keep follo
 
 
 For best viewing experience download and run the files here:
-Windows: 
+
+Windows: https://github.com/sarkarsaurabh/game_of_life/raw/master/Windows%20Build/Game_of_life.zip
+
 OSX
 
 Low resolution run in brower link : https://sarkarsaurabh.github.io/
