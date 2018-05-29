@@ -15,5 +15,7 @@ Play it here:
 Low resolution in browser link : https://sarkarsaurabh.github.io/
 
 For better viewing experience download and run the files here:
+
 •	Windows: https://github.com/sarkarsaurabh/game_of_life/raw/master/Windows%20Build/Game_of_life.zip
+
 •	OSX: https://github.com/sarkarsaurabh/game_of_life/raw/master/OSX%20Build/Game%20of%20Life.zip
