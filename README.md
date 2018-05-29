@@ -19,9 +19,9 @@ For best viewing experience download and run the files here:
 
 Windows: https://github.com/sarkarsaurabh/game_of_life/raw/master/Windows%20Build/Game_of_life.zip
 
-OSX
+OSX: https://github.com/sarkarsaurabh/game_of_life/raw/master/OSX%20Build/Game%20of%20Life.zip
 
-Low resolution run in brower link : https://sarkarsaurabh.github.io/
+Low resolution run in browser link : https://sarkarsaurabh.github.io/
 
 Please free to download the repo and contribute.
 https://github.com/sarkarsaurabh/game_of_life
