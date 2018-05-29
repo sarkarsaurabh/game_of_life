@@ -11,7 +11,9 @@ As the master of the game, you can influence the robots to be more receptive to 
 If you keep the slider towards the left, you would see how the robots keep following the old trails even when the cheese is all gone. On the other hand, if you keep it too much to the right, the robots break into anarchy and don’t like to follow trails.
 
 Play it here: 
+---------------------
 Low resolution in browser link : https://sarkarsaurabh.github.io/
+
 For better viewing experience download and run the files here:
 •	Windows: https://github.com/sarkarsaurabh/game_of_life/raw/master/Windows%20Build/Game_of_life.zip
 •	OSX: https://github.com/sarkarsaurabh/game_of_life/raw/master/OSX%20Build/Game%20of%20Life.zip
