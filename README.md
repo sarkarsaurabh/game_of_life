@@ -2,7 +2,7 @@
 ___________________________
 
 ![Screen](2018-05-29_13h56_18.png)
-Format: ![Alt Text](url)
+
 
 Change brings opportunities. Change, sometimes, is the only way to survive, let alone thrive. In this small simulated game of life described below, you will see how an increase in one's willingness to adapt to changes leads to new resources, opportunities, and chances to prosper in life, although mindlessly embracing all changes without thoughtful planning may cause unwanted damages.   
 
@@ -22,3 +22,5 @@ For better viewing experience download and run the files here:
 •	Windows: https://github.com/sarkarsaurabh/game_of_life/raw/master/Windows%20Build/Game_of_life.zip
 
 •	OSX: https://github.com/sarkarsaurabh/game_of_life/raw/master/OSX%20Build/Game%20of%20Life.zip
+
+Made with Unity!
